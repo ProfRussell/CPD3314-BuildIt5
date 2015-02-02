@@ -1,5 +1,5 @@
 /*
- * Copyright 2014 Len Payne <len.payne@lambtoncollege.ca>.
+ * Copyright 2015 Mark Russell <mark.russell@lambtoncollege.ca>.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * @author Len Payne <len.payne@lambtoncollege.ca>
+ * @author Mark Russell <mark.russell@lambtoncollege.ca>
  */
 public class CPD3314BuildIt5 {
 
@@ -84,8 +84,8 @@ public class CPD3314BuildIt5 {
      * Outputs a single static student record.
      */
     public static void outputRecord() {
-        System.out.println("First Name:\tLeonard");
-        System.out.println("Last Name:\tPayne");
+        System.out.println("First Name:\tMark");
+        System.out.println("Last Name:\tRussell");
         System.out.println("College:\tLambton College");
     }
 
